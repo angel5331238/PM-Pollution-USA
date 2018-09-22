@@ -1,4 +1,4 @@
-#Trends in particulate matter pollution throughout the United States: understanding the effects of renewable energy investments on air quality
+# Trends in particulate matter pollution throughout the United States: understanding the effects of renewable energy investments on air quality
 
 Analysis tool: R
 
